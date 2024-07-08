@@ -1,0 +1,30 @@
+:root {
+    --fire-color:#e69138;
+    --nature-color:#6aa84f;
+    --water-color:#3c78d8;
+    --mind-color:#a64d79;
+    --matter-color:#bf9000;
+    --mayhem-color:#674ea7;
+    --fey-color:#45818e;
+    --heroic-color:#cc0000;
+    --machine-color:#666666;
+}
+
+
+html {
+  font-family: Arial, sans-serif;
+}
+
+.button_type {
+  border: none;
+  color: white;
+  padding: 20px;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  border-radius: 50%;
+}
